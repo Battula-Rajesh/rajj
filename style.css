@@ -1,0 +1,19 @@
+<html>
+<body>
+<style>
+    body {
+          background-color:orange;
+          }
+   h1 {
+       font-family:italic;
+      color:red;
+      }
+    p {
+       font-style:arial;
+        color:blue;
+     }
+    td { color:red;}
+   li { color:blue;}
+</style>
+</body>
+</html>
